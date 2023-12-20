@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Clinical Sciences, Doctor of Medicine (M.D.), Flinders University, 2024-2029 (expected)
+  * Major GPA: 7.000/7.000
+* Introduction to Machine Learning, Duke University, Coursera, 2021
+  * [https://coursera.org/share/a29e13d928f376725d04a004bbaadab4](https://coursera.org/share/a29e13d928f376725d04a004bbaadab4)
 
 Work experience
 ======
@@ -29,12 +30,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Machine Learning
+* Deep Learning
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Research
 
 Publications
 ======
@@ -47,13 +48,13 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Projects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder and Partner: Kit Capital
