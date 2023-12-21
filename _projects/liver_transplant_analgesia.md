@@ -7,7 +7,7 @@ venue: "Flinders Medical Centre"
 date: 2024-01-19
 location: "Adelaide"
 ---
-![liver-transplant-analgesia](https://zhenxi-wang.github.io/files/coronanet.PNG)
+![liver-transplant-analgesia](https://zhenxi-wang.github.io/files/liver_transplant_mayo.png)
 
 Numerous divergent approaches exist for the management of analgesia following liver transplant procedures. Regrettably, there is a notable absence of established guidelines or standardized care protocols concerning analgesia for pain management in liver transplant patients. This research paper endeavours to address this gap by undertaking a retrospective cohort study involving liver transplant recipients treated at [Flinders Medical Centre](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/hospitals/flinders+medical+centre/flinders+medical+centre) from January 2021 to January 2023. The investigation will comprehensively analyse the utilization of analgesia, encompassing the preoperative phase, hospitalization during the transplant procedure, discharge, and postoperative follow-up. It is anticipated that the outcomes of this study will yield invaluable insights conducive to the formulation of guidelines for current clinical practise.
 
