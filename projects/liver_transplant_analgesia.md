@@ -2,7 +2,7 @@
 title: "Perioperative Analgesia in Liver Transplant Patients"
 collection: projects
 type: "Analgesia project"
-permalink: /projects/liver-transplant-analgesia
+permalink: /projects/liver_transplant_analgesia
 date: 2023-12-21
 location: "Adelaide"
 ---
