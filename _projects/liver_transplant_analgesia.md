@@ -7,7 +7,7 @@ venue: "Flinders Medical Centre"
 date: 2024-01-19
 location: "Adelaide"
 ---
-!### Supervisor(s): [Prof. Alan Wigg](https://www.flinders.edu.au/people/alan.wigg), [Dr. Adam Badenoch](https://scholar.google.com.au/citations?user=Xp0AlgYAAAAJ&hl=en), [Prof. John Chen](https://www.colorectalsg.com.au/john-chen)
+### Supervisor(s): [Prof. Alan Wigg](https://www.flinders.edu.au/people/alan.wigg), [Dr. Adam Badenoch](https://scholar.google.com.au/citations?user=Xp0AlgYAAAAJ&hl=en), [Prof. John Chen](https://www.colorectalsg.com.au/john-chen)
 ![liver-transplant-analgesia](https://zhenxi-wang.github.io/files/liver_transplant_mayo.png)
 ###### Copyright: Mayo Foundation for Medical Education and Research
 <br>
