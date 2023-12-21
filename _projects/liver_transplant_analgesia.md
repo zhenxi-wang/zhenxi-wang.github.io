@@ -3,8 +3,10 @@ title: "Perioperative Analgesia in Liver Transplant Patients"
 collection: projects
 type: "Analgesia project"
 permalink: /projects/liver_transplant_analgesia
+venue: "Flinders Medical Centre"
 date: 2023-12-21
 location: "Adelaide"
+Supervisor(s): "[Prof Alan Wigg](https://www.flinders.edu.au/people/alan.wigg), [Dr. Adam Badenoch](https://wagsa.com.au/who-we-are/dr-adam-badenoch/), [Prof. John Chen](https://www.colorectalsg.com.au/john-chen)"
 ---
 ![liver-transplant-analgesia](https://zhenxi-wang.github.io/files/coronanet.PNG)
 
