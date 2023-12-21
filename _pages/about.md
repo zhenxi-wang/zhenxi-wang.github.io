@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year medical student at [Flinders University](https://www.flinders.edu.au/), South Australia, studying [Bachelor of Clinical Sciences, Doctor of Medicine (M.D.)](https://www.flinders.edu.au/study/courses/bachelor-clinical-sciences-doctor-medicine).
+I am a first-year medical student at [Flinders University](https://www.flinders.edu.au/college-medicine-public-health), South Australia, studying [Bachelor of Clinical Sciences, Doctor of Medicine (M.D.)](https://www.flinders.edu.au/study/courses/bachelor-clinical-sciences-doctor-medicine).
 
 I am fascinated by the dynamic intersections of machine learning within clinical medicine. My current research is mainly focused on transformative realms of medical imaging, deep learning, and precision medicine. I am also interested in other extensive clinical translational research and its applications.
 
