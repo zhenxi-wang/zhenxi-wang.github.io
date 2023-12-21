@@ -4,9 +4,8 @@ collection: projects
 type: "Analgesia project"
 permalink: /projects/liver_transplant_analgesia
 venue: "Flinders Medical Centre"
-date: 2023-12-21
+date: 2024-01-19
 location: "Adelaide"
-Supervisor(s): "[Prof Alan Wigg](https://www.flinders.edu.au/people/alan.wigg), [Dr. Adam Badenoch](https://wagsa.com.au/who-we-are/dr-adam-badenoch/), [Prof. John Chen](https://www.colorectalsg.com.au/john-chen)"
 ---
 ![liver-transplant-analgesia](https://zhenxi-wang.github.io/files/coronanet.PNG)
 
@@ -22,7 +21,7 @@ Despite the plethora of studies exploring postoperative multimodal analgesia, th
 
 The multimodal pain management order set encompassed the administration of gabapentin 300mg thrice daily, adjusted for renal function, acetaminophen 650mg four times a day, and opioids as needed. This approach led to an average reduction of 30.6 milligrams of morphine equivalent (MME) opioid usage per day, compared to a control group utilizing an opioid-only order set. The OAP, on the other hand, involved a non-pharmacological educational intervention provided by the surgeon, pharmacist, and psychologist during the listing process. Additionally, it included a pharmacological strategy similar to the aforementioned multimodal pain management order set, but with additional provisions for sedation using ketamine and dexmedetomidine, incisional pain control through ropivacaine administered via lateral incisional catheters, and the use of tizanidine or baclofen. This comprehensive approach resulted in a remarkable average reduction of 80mg of MME opioid usage per day until discharge, when compared to a historical control group following an opioid-only order set.
 
-This evidence supports the contention that a multifaceted, multidisciplinary approach to perioperative analgesia can effectively reduce opioid usage in a population already vulnerable to chronic postsurgical pain. Before incorporating any of these findings into clinical guidelines at the [Liver Transplant Unit](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/hospitals/flinders+medical+centre/services+and+clinics+at+flinders+medical+centre/outpatient+clinics+at+flinders+medical+centre/liver+transplant+clinic+at+flinders+medical+centre) at Flinders Medical Centre, it is imperative to first characterize the current pain management practices in these patients. Consequently, the primary objective of this project is to comprehensively assess the existing strategies for managing pain in liver transplant patients through a retrospective cohort study.
+This evidence supports the contention that a multifaceted, multidisciplinary approach to perioperative analgesia can effectively reduce opioid usage in a population already vulnerable to chronic postsurgical pain. Before incorporating any of these findings into clinical guidelines at the [Liver Transplant Unit](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/hospitals/flinders+medical+centre/services+and+clinics+at+flinders+medical+centre/services+at+flinders+medical+centre/hepatology+and+liver+transplantation+medicine+services+at+flinders+medical+centre) at Flinders Medical Centre, it is imperative to first characterize the current pain management practices in these patients. Consequently, the primary objective of this project is to comprehensively assess the existing strategies for managing pain in liver transplant patients through a retrospective cohort study.
 
 
 Objectives
